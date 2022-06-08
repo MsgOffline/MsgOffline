@@ -1,16 +1,22 @@
-### Hi there 👋
+# About me
 
-<!--
-**MsgOffline/MsgOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+<p align="left">
+<img src="https://simpleicons.org/icons/github.svg" height="32px">
+<img src="https://simpleicons.org/icons/cplusplus.svg" height="32px"> 
+<img src="https://simpleicons.org/icons/rust.svg" height="32px"> 
+ <img src="https://simpleicons.org/icons/go.svg" height="32px"> 
+</p>
 
-Here are some ideas to get you started:
+## Skills
+🦀 lang: Rust, C++,Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 tools: VS Code, Docker, Shell
+
+💻 fields:  Computer Architecture, OS ,Parallel Computing
+
+## Statistics　
+<p align="left">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=cargo-youth&count_private=true&theme=tokyonight&show_icons=true&line_height=24" align = "center"/>
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargo-youth&theme=tokyonight&layout=compact&langs_count=10" align = "center"/>
+</p>
