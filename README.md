@@ -2,18 +2,14 @@
 
 ## Interests
 <p align="left">
-<img src="https://simpleicons.org/icons/github.svg" height="32px">
-<img src="https://simpleicons.org/icons/cplusplus.svg" height="32px"> 
-<img src="https://simpleicons.org/icons/rust.svg" height="32px"> 
- <img src="https://simpleicons.org/icons/go.svg" height="32px"> 
+<img src="https://simpleicons.org/icons/unrealengine.svg" height="32px">
+<img src="https://simpleicons.org/icons/cplusplus.svg" height="32px">
+<img src="https://simpleicons.org/icons/lua.svg" height="32px">
 </p>
 
 ## Skills
-🦀 lang: Rust, C++,Go
-
-🔨 tools: VS Code, Docker, Shell
-
-💻 fields:  Computer Architecture, OS ,Parallel Computing
+🦀 lang: C++, Lua
+🔨 tools: UE4, VsCode
 
 ## Statistics　
 <p align="left">
